@@ -24,7 +24,7 @@ st.write(text_3)
 '''
 ***
 '''
-agree = st.checkbox('現実ボタン')
+agree = st.checkbox('実現ボタン')
 
 if agree == True :
      st.write('星野源さん、新垣結衣さん、結婚おめでとおおおおおお！！！！！')
