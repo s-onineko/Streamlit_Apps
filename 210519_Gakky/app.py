@@ -4,7 +4,7 @@ import datetime
 
 dt_now = datetime.datetime.now()
 
-st.title('クラウド・ガッキー')
+st.title('Cloud・ガッキー')
 your_name = st.text_input("ガッキーと結婚するのは・・・？", "星野源")
 text_1 = your_name + "・新垣結衣　連名コメント"
 text_2 = "私たち、" + your_name + "・新垣結衣は、このたび結婚する運びとなりました事をご報告させて いただきます。"
