@@ -7,8 +7,8 @@ dt_now = datetime.datetime.now()
 st.title('Cloud Gakky')
 your_name = st.text_input("ガッキーと結婚するのは・・・？", "星野源")
 text_1 = your_name + "・新垣結衣　連名コメント"
-text_2 = "私たち、" + your_name + "新垣結衣は、このたび結婚する運びとなりました事をご報告させて いただきます。"
-text_3 = your_name + "  新垣結衣"
+text_2 = "私たち、" + your_name + "・新垣結衣は、このたび結婚する運びとなりました事をご報告させて いただきます。"
+text_3 = your_name + "  　新垣結衣"
 '''
 ***
 '''
